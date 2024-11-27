@@ -17,13 +17,13 @@ This is a simple **Brick Breaker** game built using Java and the `Swing` library
 Right Arrow: Move paddle right.
 Left Arrow: Move paddle left.
 
-##Future Improvements
+## Future Improvements
 - Implement a MapGenerator class for creating and rendering bricks.
 - Add sound effects and animations for a better user experience.
 - Add a scoring system for tracking performance.
 - Implement levels or difficulty progression.
 
-##Preview
+## Preview
 Here's an outline of what the game currently looks like:
 
 Paddle: A green rectangle at the bottom of the screen.
